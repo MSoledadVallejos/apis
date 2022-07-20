@@ -1,0 +1,7 @@
+Métodos de solicitud HTTP
+
+El método GET
+GET se utiliza para solicitar datos de un recurso específico.
+
+El método POST
+POST se utiliza para enviar datos a un servidor para crear/actualizar un recurso.
